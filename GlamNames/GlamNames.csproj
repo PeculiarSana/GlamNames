@@ -12,5 +12,6 @@
 
   <ItemGroup>
     <Content Include="GlamNames.json" />
+    <Content Include="..\images\icon.png" Link="images\icon.png" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 </Project>
