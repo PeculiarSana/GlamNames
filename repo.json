@@ -1,0 +1,16 @@
+{
+    "Name": "Glamour Names",
+    "Author": "PeculiarSana",
+    "Punchline": "Change the display name of glamour plates.",
+    "Description": "A simple plugin that allows editing of the Glamour display names via a new button on the Glamour Plates window.",
+    "RepoUrl": "https://github.com/PeculiarSana/GlamNames",
+    "Tags": [
+        "Glamour",
+        "Interface",
+        "Text"
+    ],
+    "DownloadLinkInstall": "https://github.com/PeculiarSana/GlamNames/archive/refs/tags/v0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/PeculiarSana/GlamNames/archive/refs/tags/v0.1.zip",
+    "DownloadLinkTesting": "https://github.com/PeculiarSana/GlamNames/archive/refs/tags/v0.1.zip",
+    "IconUrl": "https://raw.githubusercontent.com/PeculiarSana/GlamNames/refs/heads/master/images/icon.png"
+}
