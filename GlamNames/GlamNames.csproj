@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
-    <Version>0.0.0.1</Version>
-    <!-- Manifest fields (see https://github.com/goatcorp/DalamudPackager/blob/827d88dc/DalamudPackager/DalamudPackager.cs#L420) -->
+    <Version>0.1.0.0</Version>
     <Author>PeculiarSana</Author>
     <Name>Glamour Names</Name>
     <Punchline>Change the display name of glamour plates.</Punchline>
-    <Description>A brief overview of what your plugin does, highlighting its key features.
-This is shown when the user expands the plugin entry in /xlplugins.</Description>
-    <RepoUrl>https://github.com/goatcorp/SamplePlugin</RepoUrl>
-    <Tags>sample;plugin;goats</Tags>
+    <Description>A simple plugin that allows editing of the Glamour display names via a new button on the Glamour Plates window.</Description>
+    <RepoUrl>https://github.com/PeculiarSana/GlamNames</RepoUrl>
+    <Tags>glamour;interface;text</Tags>
   </PropertyGroup>
 
   <ItemGroup>
