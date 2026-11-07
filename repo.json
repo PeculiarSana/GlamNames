@@ -13,9 +13,9 @@
             "Interface",
             "Text"
         ],
-        "DownloadLinkInstall": "https://github.com/PeculiarSana/GlamNames/releases/download/0.1-Testing/GlamourNames.zip",
-        "DownloadLinkUpdate": "https://github.com/PeculiarSana/GlamNames/releases/download/0.1-Testing/GlamourNames.zip",
-        "DownloadLinkTesting": "https://github.com/PeculiarSana/GlamNames/releases/download/0.1-Testing/GlamourNames.zip",
+        "DownloadLinkInstall": "https://github.com/PeculiarSana/GlamNames/releases/download/0.1-Testing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PeculiarSana/GlamNames/releases/download/0.1-Testing/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PeculiarSana/GlamNames/releases/download/0.1-Testing/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/PeculiarSana/GlamNames/refs/heads/master/images/icon.png"
     }
 ]
