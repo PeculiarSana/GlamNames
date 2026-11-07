@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GlamNames/GlamNames.csproj">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
